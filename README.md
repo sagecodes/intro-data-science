@@ -83,6 +83,8 @@ Give a quick Intro!
 
 ## What is Data Science?
 
+Gear question!
+
 
 ### Who uses Python?
 
@@ -94,6 +96,7 @@ Give a quick Intro!
 
 
 - Data Science
+	- Matplot Lib
 	- Tensorflow
 	- Keras
 	- Numpy
@@ -105,3 +108,50 @@ Give a quick Intro!
 *Note*: if you're thinking of exploring data science with python look into using [Anaconda](https://www.anaconda.com/) to manage your python and data libraries
 
 Also [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) is a awesome place to start as well without having to install anything!
+
+
+
+Workshop overview
+
+Exmplore data
+
+Machine Learning
+
+Deep Learning
+
+
+
+# Looking at Data 
+
+## Explore data
+
+### Pandas
+
+### Numpy
+
+### Matplot Lib
+
+# Cleaning Data
+
+
+
+# Machine Learning
+
+Quick Quick overview of machine learnig. We wont have ti eto go too deep, so don't worry if some of it is over your head. This is just to give you and idea of some of the stuff you can start doing!
+
+## Classification example
+
+K Nearest Neibors
+
+NLTK example
+
+# Deep Learning Example
+
+
+
+
+
+
+
+
+
