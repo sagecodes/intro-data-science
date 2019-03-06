@@ -81,6 +81,11 @@ Give a quick Intro!
 - Why are you interested in Python?
 
 
+## Follow along and code in Google colab
+
+[Intro to data Science with Python Google Colab](https://colab.research.google.com/drive/1_bszcUFMGvzo8hza-2vPJQQmx2kde7T8#scrollTo=CZMsRJwAq8NN)
+
+
 ## What is Data Science?
 
 Gear question!
@@ -127,8 +132,6 @@ Deep Learning
 
 ### Pandas
 
-### Numpy
-
 ### Matplot Lib
 
 # Cleaning Data
@@ -143,7 +146,7 @@ Quick Quick overview of machine learnig. We wont have ti eto go too deep, so don
 
 K Nearest Neibors
 
-NLTK example
+NLTK example?
 
 # Deep Learning Example
 
