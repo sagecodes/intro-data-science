@@ -84,44 +84,75 @@ Give a quick Intro!
 
 ## What is Data Science?
 
-Gear question!
+Great question! 
+
+Different Companies and people will have different deffinitions for roles.
+
+
+In general I like to broadly think of it as "Solving problems using data". 
+
+
+- Data Collection and storage
+- Data Cleaning, prepping
+- Analytics, Metrics, gaining insights
+- A/B Testing
+- AI
+	- Machine Learning
+	- Deep Learning 
+
+
+Understanding the busiess problem is important for eachs step above.
+
+### Jobs in Data Science
+
+- The Data Analyst
+- The Data Engineer
+- The Data Science
+- Machine Learning Engineer
+- Deep Learning Engineer
+- Comuter Vision Engineer
+- Natural Language Processing(NLP) Engineer
+- More!
 
 
 ### Who uses Python?
 
+I would say most major companies using Data Science and machine learning. 
 
-### What can you do with Python
+Other Languages: Scala, R
+
 
 
 #### Popular Frameworks and libraries to keep in mind
 
 
 - Data Science
-	- Matplot Lib
+	- Pandas 
+	- MatplotLib
+	- seaborn
 	- Tensorflow
 	- Keras
 	- Numpy
 	- Pandas
-	- Scikit Learn
+	- ScikitLearn
 	- OpenCV
+	- pytorch
+	- A BILLION MORE!
 
 
 *Note*: if you're thinking of exploring data science with python look into using [Anaconda](https://www.anaconda.com/) to manage your python and data libraries
 
-Also [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) is a awesome place to start as well without having to install anything!
-
-
+[Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) is a awesome place to start as well without having to install anything!
 
 
 
 ## What we'll do!
 
-Workshop overview
+We're going to:
 
-Exmplore data
-
-Machine Learning
-
+- Understand a dataset
+- Visualize the data in a meaniful way
+- Use Machine learning to make predictions
 
 
 
@@ -134,13 +165,15 @@ Machine Learning
 
 ### Keep learning!
 
+I'll email these out to attendees with email addresses!
+
 More learning resources:
 
-- [Galvanize Data Science Prep Course](https://www.galvanize.com/data-science-prep) - FREE | study at your own pace
+- [Galvanize Data Science Prep Course](https://www.galvanize.com/gift-of-prep?utm_medium=seattle&utm_source=meetup&utm_campaign=ltc) - FREE (Premium Prep is currently free!)
 
-- [Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science) | Free
+- [Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science) | Some Free
 
-- [Udacity Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) | Free
+- [Udacity Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359) | Free
 
 
 
