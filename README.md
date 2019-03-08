@@ -163,7 +163,7 @@ For this we're going to use:
 
 ## Follow along and code in Google colab
 
-### [Intro to data Science with Python Google Colab](https://colab.research.google.com/drive/1_bszcUFMGvzo8hza-2vPJQQmx2kde7T8#scrollTo=CZMsRJwAq8NN)
+### [Intro to data Science with Python Google Colab](https://colab.research.google.com/drive/1_bszcUFMGvzo8hza-2vPJQQmx2kde7T8)
 
 ### URL: dsco.sage.codes
 
