@@ -153,11 +153,11 @@ We host so many events! check out our [calendar](https://www.galvanize.com/event
 
 Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
 
-[JavaScript Mini Bootcamp: Fundamentals I](https://www.eventbrite.com/e/javascript-mini-bootcamp-fundamentals-i-tickets-54952026992) - 2/23/19 10am - 4:30pm
+[SQL 101](https://www.eventbrite.com/e/sql-101-tickets-56532083985) Thu, March 21, 2019 6:30 PM – 8:30 PM
 
-[JavaScript 101](https://www.eventbrite.com/e/javascript-101-tickets-54952136319) - 2/27/19 6:30 - 8:30pm
+[Intro to Programming with Python](https://www.eventbrite.com/e/python-101-tickets-56532271546) Tue, March 12, 2019 6:30 PM – 8:30 PM
 
-[Intro to data Science with python](https://www.eventbrite.com/e/intro-to-data-science-with-python-tickets-56531983685) 3/7/19 6:30 - 8:30pm
+[Intro to Machine Learning with Python](https://www.eventbrite.com/e/intro-to-machine-learning-tickets-56532340753) Thu, March 28, 2019 6:30 PM – 8:30 PM
 
 ## What is Galvanize?
 
