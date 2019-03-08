@@ -1,1 +1,2 @@
-sklearn>=0.20.1
+numpy==1.16.*
+matplotlib==3.*
