@@ -80,13 +80,11 @@ Give a quick Intro!
 
 
 
-
-
 ## What is Data Science?
 
 Great question! 
 
-Different Companies and people will have different deffinitions for roles.
+Different Companies and people will have different definitions for roles.
 
 
 In general I like to broadly think of it as "Solving problems using data". 
@@ -101,7 +99,7 @@ In general I like to broadly think of it as "Solving problems using data".
 	- Deep Learning 
 
 
-Understanding the busiess problem is important for eachs step above.
+Understanding the business problem is important for each step above.
 
 ### Jobs in Data Science
 
@@ -110,7 +108,7 @@ Understanding the busiess problem is important for eachs step above.
 - The Data Science
 - Machine Learning Engineer
 - Deep Learning Engineer
-- Comuter Vision Engineer
+- Computer Vision Engineer
 - Natural Language Processing(NLP) Engineer
 - More!
 
@@ -151,8 +149,15 @@ Other Languages: Scala, R
 We're going to:
 
 - Understand a dataset
-- Visualize the data in a meaniful way
+- Visualize the data in a meaningful way
 - Use Machine learning to make predictions
+
+For this we're going to use:
+
+- Pandas 
+- Matplotlib
+- ScikitLearn
+
 
 
 
