@@ -1,6 +1,6 @@
 # Learn to Code: Introduction to Data Science with Python
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danjonpeterson/intro-data-science/master?filepath=intro_to_data_science_with_python.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagecodes/intro-data-science/master?filepath=intro_to_data_science_with_python.ipynb)
 
 Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
 
