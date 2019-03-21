@@ -204,7 +204,7 @@ Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) me
 #### Immersive Bootcamp
 
 
-- [Software Engineer](https://www.galvanize.com/web-development) - 4/8/19 - 7/5/19
+- [Software Engineer](https://www.galvanize.com/web-development) - 4/15/19 - 7/5/19
 - [Data Science](https://www.galvanize.com/data-science) - 5/6/19 - 8/6/19
 
 
