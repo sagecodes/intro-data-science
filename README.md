@@ -1,14 +1,15 @@
 # Learn to Code: Introduction to Data Science with Python
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagecodes/intro-data-science/master?filepath=intro_to_data_science_with_python.ipynb)
+<!--[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagecodes/intro-data-science/master?filepath=intro_to_data_science_with_python.ipynb)-->
 
-Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
+
+Learn more Data Science with the [Galvanize Data Science Prep Course](http://bit.ly/gprepdata) - FREE | study at your own pace
 
 Get to this repo by typing in URL: **datapy.sage.codes**
 
 ### FAQ: 
 
-- WIFI: `Galvanize Guest Seattle` | Password: beapineapple
+- WIFI: `Galvanize Guest` | Password: Posted on the walls
 - Bathrooms: Behind you down the hall to the left
 - Kitchen outside back classroom door with Coffee & Tea!
 - Snacks + water in back of room
@@ -176,7 +177,10 @@ I'll email these out to attendees with email addresses!
 
 More learning resources:
 
-- [Galvanize Data Science Prep Course](https://www.galvanize.com/gift-of-prep?utm_medium=seattle&utm_source=meetup&utm_campaign=ltc) - FREE (Premium Prep is currently free!)
+
+- [Galvanize Data Science Prep Course](http://bit.ly/gprepdata) - FREE | study at your own pace
+
+- [Hack Reactor Software Engineer Prep](http://bit.ly/gsoftprep) FREE | study at your own pace
 
 - [Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science) | Some Free
 
@@ -186,39 +190,51 @@ More learning resources:
 
 ## Upcoming Events!
 
-[PuPPy](https://www.meetup.com/PSPPython/) is an awesome python group in Seattle! 
-
-
-We host so many events! check out our [calendar](https://www.galvanize.com/events)
-
 Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
 
-[SQL 101](https://www.eventbrite.com/e/sql-101-tickets-56532083985) Thu, March 21, 2019 6:30 PM – 8:30 PM
 
-[Intro to Programming with Python](https://www.eventbrite.com/e/python-101-tickets-56532271546) Tue, March 12, 2019 6:30 PM – 8:30 PM
+- [Intro to Data Science with Python](https://www.eventbrite.com/e/intro-to-data-science-with-python-tickets-58878207303) - 4/18 630pm
+- [Intro to React](https://www.eventbrite.com/e/intro-to-react-tickets-58878540299) - 4/24 6:30pm
+- [SQL 101](https://www.eventbrite.com/e/sql-101-tickets-58878275507) - 4/25 630pm
+- [JavaScript Mini Bootcamp: Fundamentals II](https://www.eventbrite.com/e/javascript-mini-bootcamp-fundamentals-ii-tickets-58878315627) - 4/27 10am - 430pm
+- [Intro to Web Scraping for Data Science](https://www.eventbrite.com/e/intro-to-web-scraping-with-python-for-data-science-tickets-58878488143) 5/2 6:30pm
 
-[Intro to Machine Learning with Python](https://www.eventbrite.com/e/intro-to-machine-learning-tickets-56532340753) Thu, March 28, 2019 6:30 PM – 8:30 PM
+# What is Galvanize?
 
-## What is Galvanize?
+> We create a technology ecosystem for learners, entrepreneurs, startups and established companies to meet the needs of the rapidly changing digital world.
+
+![](campus.png)
+
+- Education
+- Co-Working
+- Events
+- Enterprise
+
+
+## Galvanize Classes
 
 #### Immersive Bootcamp
 
+Transform your career with our 13 week immersive programs
 
-- [Software Engineer](https://www.galvanize.com/web-development) - 4/15/19 - 7/5/19
-- [Data Science](https://www.galvanize.com/data-science) - 5/6/19 - 8/6/19
+- [Software Engineer](http://bit.ly/seawebdev) - 6/3/19 - 10/11/19
+- [Data Science](http://bit.ly/seadatascience) - 5/6/19 - 8/2/19
 
 
 #### Part-Time Courses
 
-- [Digital Marketing](https://www.galvanize.com/part-time/digital-marketing) - 4/15/19 - 6/7/19
+Learn while working with out evening part-time classes
 
-- [Data Analytics](https://www.galvanize.com/part-time/data-analytics) - 5/7/19 - 7/25/19
+- [Intro to Data Science](http://bit.ly/seaintrods) - 5/7/19 - 6/27/19
+
+- [Digital Marketing](http://bit.ly/seadm) - 5/13/19 - 7/3/19
+
+- [Data Analytics](http://bit.ly/seadataa) - 5/6/19 - 7/24/19
 
 #### Co-working Space
 
 [work in our building!](https://www.galvanize.com/entrepreneur)
 
-Contact me if you'd like to do a tour!
 
 ## Questions
 
